@@ -1,0 +1,1 @@
+Implement the "Rapid Quality Assurance with Requirements Smells" article
